@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mohamed Hilali</h1>
 
-<!--
-**Moh240h/Moh240h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Aspiring Web Developer from Morocco. I'm passionate about creating beautiful and responsive websites using HTML & CSS. Always learning and building!
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 My Website  
+[Visit my personal website](https://moh240h.github.io/MOHAMED1/)
+
+---
+
+### 🛠️ Skills
+- HTML
+- CSS
+- Git & GitHub
+- Web Hosting (GitHub Pages)
+
+---
+
+### 📫 Contact
+- **Email**: mohilali940@gmail.com
+
+---
+
+### ⚡ Fun Fact
+I started learning web development from scratch and I'm building my dream step by step!
